@@ -1,0 +1,326 @@
+{
+  "timestamp": "2025-11-02T01:39:37.153927",
+  "executive_summary": {
+    "edinburgh_position": "3 of 5 regions in warehouse temperature",
+    "current_conditions": "Good",
+    "coastal_advantage": "Active",
+    "economic_value_at_risk": "\u00a3250,000,000",
+    "total_employment": 395,
+    "key_finding": "Edinburgh temperatures are LOW - slower aging but potential for unique flavor development"
+  },
+  "regional_influence": {
+    "glasgow": {
+      "region_name": "Glasgow",
+      "influence_type": "Commercial Competition & Distribution Hub",
+      "temperature_delta": 0.0,
+      "humidity_delta": -2,
+      "supply_chain_impact": {
+        "casks_transferred_annually": 2000,
+        "temperature_shock_severity": "Low",
+        "adaptation_period_days": 0,
+        "quality_risk": "Low",
+        "recommendation": "Direct transfer suitable - minimal adaptation needed"
+      },
+      "weather_pattern_influence": {
+        "proximity": "Close (70km)",
+        "wind_pattern": "West to East - direct weather influence",
+        "impact_level": "High - similar weather systems"
+      },
+      "economic_linkage": {
+        "relationship": "Competitive",
+        "gdp_contribution": "\u00a3180M combined",
+        "employment_overlap": "High - shared labor market",
+        "synergy_potential": "Distribution partnership opportunities"
+      }
+    },
+    "islay": {
+      "region_name": "Islay",
+      "influence_type": "Premium Cask Supply & Maritime Weather Patterns",
+      "temperature_delta": 0.8,
+      "humidity_delta": 4,
+      "supply_chain_impact": {
+        "casks_transferred_annually": 1500,
+        "temperature_shock_severity": "Low",
+        "adaptation_period_days": 5,
+        "quality_risk": "Low",
+        "recommendation": "Direct transfer suitable - minimal adaptation needed"
+      },
+      "weather_pattern_influence": {
+        "proximity": "Moderate (200km west)",
+        "wind_pattern": "Atlantic systems reach Edinburgh 6-12 hours later",
+        "impact_level": "Medium - maritime influence predictor"
+      },
+      "economic_linkage": {
+        "relationship": "Complementary",
+        "gdp_contribution": "\u00a345M premium segment",
+        "employment_overlap": "Low - specialized skills",
+        "synergy_potential": "Premium cask finishing in Edinburgh"
+      }
+    },
+    "aberlour": {
+      "region_name": "Aberlour (Speyside)",
+      "influence_type": "Bulk Whisky Supply & Climate Baseline",
+      "temperature_delta": -1.4,
+      "humidity_delta": -6,
+      "supply_chain_impact": {
+        "casks_transferred_annually": 5000,
+        "temperature_shock_severity": "Low",
+        "adaptation_period_days": 9,
+        "quality_risk": "Low",
+        "recommendation": "Direct transfer suitable - minimal adaptation needed"
+      },
+      "weather_pattern_influence": {
+        "proximity": "Moderate (170km north)",
+        "wind_pattern": "Northern systems, less direct influence",
+        "impact_level": "Low - different microclimate"
+      },
+      "economic_linkage": {
+        "relationship": "Supplier",
+        "gdp_contribution": "\u00a3500M+ bulk production",
+        "employment_overlap": "Medium - blending expertise",
+        "synergy_potential": "Large-scale aging partnerships"
+      }
+    },
+    "dufftown": {
+      "region_name": "Dufftown (Speyside)",
+      "influence_type": "Production Standards & Best Practices Source",
+      "temperature_delta": -1.1,
+      "humidity_delta": -5,
+      "supply_chain_impact": {
+        "casks_transferred_annually": 3000,
+        "temperature_shock_severity": "Low",
+        "adaptation_period_days": 7,
+        "quality_risk": "Low",
+        "recommendation": "Direct transfer suitable - minimal adaptation needed"
+      },
+      "weather_pattern_influence": {
+        "proximity": "Moderate (180km north)",
+        "wind_pattern": "Speyside valley systems, isolated",
+        "impact_level": "Low - sheltered microclimate"
+      },
+      "economic_linkage": {
+        "relationship": "Benchmark",
+        "gdp_contribution": "\u00a3350M concentrated production",
+        "employment_overlap": "Medium - technical standards",
+        "synergy_potential": "Quality certification and tourism collaboration"
+      }
+    }
+  },
+  "temperature_gradient_analysis": {
+    "scotland_range": {
+      "coldest_region": "Aberlour (Speyside)",
+      "coldest_temp": 8.0,
+      "warmest_region": "Islay",
+      "warmest_temp": 10.2,
+      "total_gradient": 2.2
+    },
+    "edinburgh_position": {
+      "temperature": 9.4,
+      "relative_to_coldest": "+1.4\u00b0C",
+      "relative_to_warmest": "-0.8\u00b0C",
+      "percentile": "50th percentile"
+    },
+    "gradient_implications": {
+      "gradient_severity": "Minimal",
+      "regional_impact": "Consistent conditions across Scotland - standardized practices viable",
+      "edinburgh_characterization": "Moderate region - balanced aging characteristics",
+      "strategic_opportunity": "Edinburgh's moderate position ideal for standard aging - reliable quality production"
+    }
+  },
+  "humidity_flow_patterns": {
+    "coastal_vs_inland": {
+      "coastal_average": 80.0,
+      "inland_average": 73.7,
+      "difference": 6.3,
+      "edinburgh_advantage": 4.3
+    },
+    "evaporation_economics": {
+      "regional_losses": {
+        "edinburgh": {
+          "humidity_percent": 78,
+          "evaporation_rate": 1.84,
+          "annual_loss_gbp": "\u00a3920,000"
+        },
+        "glasgow": {
+          "humidity_percent": 76,
+          "evaporation_rate": 1.88,
+          "annual_loss_gbp": "\u00a3940,000"
+        },
+        "islay": {
+          "humidity_percent": 82,
+          "evaporation_rate": 1.76,
+          "annual_loss_gbp": "\u00a3880,000"
+        },
+        "aberlour": {
+          "humidity_percent": 72,
+          "evaporation_rate": 1.96,
+          "annual_loss_gbp": "\u00a3980,000"
+        },
+        "dufftown": {
+          "humidity_percent": 73,
+          "evaporation_rate": 1.94,
+          "annual_loss_gbp": "\u00a3970,000"
+        }
+      },
+      "edinburgh_competitive_advantage": "\u00a360,000 savings vs driest region"
+    },
+    "humidity_based_recommendations": [
+      {
+        "status": "ADVANTAGE",
+        "message": "High humidity reduces evaporation losses significantly",
+        "action": "Market 'low angel's share' as quality and sustainability feature"
+      }
+    ]
+  },
+  "economic_cascade_effects": {
+    "whisky_flow_patterns": {
+      "speyside_to_edinburgh": {
+        "volume": "5,000 casks/year",
+        "value": "\u00a325M annual transfers",
+        "impact": "Bulk aging capacity supplement"
+      },
+      "islay_to_edinburgh": {
+        "volume": "1,500 casks/year",
+        "value": "\u00a312M premium cask finishing",
+        "impact": "High-value finishing and bottling operations"
+      },
+      "glasgow_edinburgh_exchange": {
+        "volume": "Bidirectional - 3,000 casks/year",
+        "value": "\u00a315M trade flows",
+        "impact": "Blending operations and distribution synergies"
+      }
+    },
+    "employment_cascade": {
+      "direct_edinburgh_jobs": 395,
+      "supply_chain_jobs": 850,
+      "tourism_indirect": 1200,
+      "total_ecosystem": 2445
+    },
+    "gdp_contribution": {
+      "edinburgh_direct": "\u00a345M storage operations",
+      "regional_linked": "\u00a3180M from connected operations",
+      "tourism_premium": "\u00a325M whisky tourism"
+    }
+  },
+  "supply_chain_implications": {
+    "cask_sourcing_strategy": {
+      "primary_source": "Speyside (Aberlour/Dufftown) - 60% of supply",
+      "premium_source": "Islay - 20% of supply",
+      "local_production": "Edinburgh distilleries - 15%",
+      "glasgow_exchange": "5% bidirectional trade"
+    },
+    "transport_considerations": {
+      "speyside_route": {
+        "distance": "170km",
+        "transport_time": "3-4 hours",
+        "temperature_management": "Minimal - similar climates",
+        "annual_shipments": 100
+      },
+      "islay_route": {
+        "distance": "200km + ferry",
+        "transport_time": "6-8 hours",
+        "temperature_management": "Critical - island maritime to coastal urban",
+        "annual_shipments": 30
+      }
+    },
+    "warehouse_capacity_planning": {
+      "current_capacity": "50,000 casks",
+      "utilization_rate": "85%",
+      "expansion_needed": "10,000 cask capacity by 2028",
+      "investment_required": "\u00a315M infrastructure"
+    }
+  },
+  "edinburgh_competitive_advantages": {
+    "competitive_advantages": [
+      {
+        "advantage": "Coastal Maritime Climate",
+        "economic_value": "\u00a3500K-\u00a31M annual evaporation savings",
+        "quality_impact": "Distinct maritime character in aged whisky",
+        "marketing_value": "Premium positioning for coastal-aged expressions"
+      },
+      {
+        "advantage": "Capital City Infrastructure",
+        "economic_value": "\u00a325M tourism revenue",
+        "quality_impact": "Access to premium oak cask suppliers",
+        "marketing_value": "International recognition and heritage brand value"
+      },
+      {
+        "advantage": "Market Proximity",
+        "economic_value": "\u00a35M logistics savings vs remote locations",
+        "quality_impact": "Reduced transport time = less cask disturbance",
+        "marketing_value": "Direct consumer access and tasting room revenue"
+      }
+    ],
+    "quantified_total_advantage": "\u00a330M+ annual economic benefit vs comparable inland locations"
+  },
+  "climate_risk_assessment": {
+    "temperature_volatility_risk": {
+      "current_stability": "Moderate - coastal moderation effect",
+      "5_year_trend": "Warming +0.3\u00b0C (requires monitoring)",
+      "risk_level": "Medium",
+      "mitigation": "Invest in active temperature control for 30% of inventory"
+    },
+    "humidity_shift_risk": {
+      "current_stability": "High - maritime influence stable",
+      "5_year_trend": "Slight increase (+2%) beneficial",
+      "risk_level": "Low",
+      "mitigation": "Monitor for mold, maintain current ventilation"
+    },
+    "extreme_weather_risk": {
+      "storm_exposure": "Moderate - coastal location",
+      "heat_wave_vulnerability": "Low - stone buildings provide thermal mass",
+      "flood_risk": "Low - elevated warehouse sites",
+      "mitigation": "Standard business continuity planning sufficient"
+    }
+  },
+  "recommendations": {
+    "immediate_actions": [
+      {
+        "priority": 1,
+        "action": "Install IoT temperature/humidity sensors in all warehouses",
+        "cost": "\u00a350K",
+        "benefit": "Real-time monitoring enables predictive maintenance",
+        "timeline": "3 months"
+      },
+      {
+        "priority": 2,
+        "action": "Develop weather-based cask transfer protocols",
+        "cost": "\u00a315K (consulting)",
+        "benefit": "Reduce quality risk from temperature shocks",
+        "timeline": "2 months"
+      }
+    ],
+    "medium_term_strategy": [
+      {
+        "priority": 1,
+        "action": "Expand coastal warehouse capacity by 10,000 casks",
+        "cost": "\u00a315M",
+        "benefit": "Capture growing demand, optimize humidity advantage",
+        "timeline": "18-24 months"
+      },
+      {
+        "priority": 2,
+        "action": "Partner with Speyside distilleries for aging contracts",
+        "cost": "Operational",
+        "benefit": "\u00a35M annual revenue from aging services",
+        "timeline": "12 months"
+      }
+    ],
+    "long_term_vision": [
+      {
+        "priority": 1,
+        "action": "Position Edinburgh as 'Premium Coastal Aging Specialist'",
+        "cost": "\u00a32M marketing",
+        "benefit": "20% price premium on Edinburgh-aged expressions",
+        "timeline": "3-5 years"
+      },
+      {
+        "priority": 2,
+        "action": "Develop integrated whisky tourism experience",
+        "cost": "\u00a38M infrastructure",
+        "benefit": "\u00a315M annual tourism revenue",
+        "timeline": "5 years"
+      }
+    ]
+  }
+}
